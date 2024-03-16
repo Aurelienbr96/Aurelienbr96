@@ -15,3 +15,5 @@
 **Testing**
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white) ![Detox](https://img.shields.io/badge/Detox-000000?style=for-the-badge&logo=dash&logoColor=white) ![Testing Library](https://img.shields.io/badge/Testing_Library-C21325?style=for-the-badge&logo=Supabase&logoColor=white)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aurelienbr96&hide_progress=true)
