@@ -3,6 +3,7 @@
 - **About me**
 
 - 🚀 Specialized on React since 2017
+- 🚀 Working with Node, Golang, Vue, React Native
 - 📫 How to reach me: aurelienbrachet123@gmail.com
 - 🎓 _Freelance_ Software Engineer
 
