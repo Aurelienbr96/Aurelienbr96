@@ -1,4 +1,4 @@
-### Hi there, I'am Aurelien Brachet 👋
+### Hi there 👋
 
 - **About me**
 
