@@ -7,6 +7,8 @@
 - 📫 How to reach me: aurelienbrachet123@gmail.com
 - 🎓 _Freelance_ Software Engineer
 
+old github: https://github.com/aurelienbr
+
 ### My favourite stack ❤️
 
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
